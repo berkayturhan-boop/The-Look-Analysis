@@ -1,1 +1,0 @@
-select*from workintech-bootcamp-atakan-can.thelook_ecommerce.order_items
